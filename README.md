@@ -1,4 +1,4 @@
-# FreeRdp
+# gb
 ### Don't copy this code without give me the credits, nerd! 
 ## README Translation
 - [English](README.md)
